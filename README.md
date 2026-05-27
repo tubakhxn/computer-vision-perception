@@ -1,4 +1,4 @@
-# computer vision weekend projects
+# computer vision projects
 
 ## dev/creator = tubakhxn
 
